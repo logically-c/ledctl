@@ -3,6 +3,10 @@
 _A cli/http interface for controlling Magic Home RGB LEDs_
 
 
+## Downloads
+
+Grab the Windows & Linux binaries from the [releases](https://github.com/logically-c/ledctl/releases) page.
+
 ## Usage
 
 `ledctl set-wifi --ip <IP ADDRESS> --ssid <SSID> --password <PASSWORD> --mode <MODE> --algo <ALGO>`
